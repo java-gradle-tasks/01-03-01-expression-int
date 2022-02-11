@@ -15,5 +15,5 @@ Osztalyok szamanak meghatarozasa!
 Adja meg a tanulok szamat:58
 Osztalyletszam:26
 Teljessen feltoltott osztalyok szama:2
-A nem feltoltott osztalyba felveheto diakok szama:20
+A nem feltoltott osztalyba felveheto diakok szama:20<újsor>
 ```
